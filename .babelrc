@@ -1,0 +1,8 @@
+{
+    "presets": [
+			"@babel/es2015",
+			"@babel/stage-0",
+			"@ava/stage-4",
+			"@ava/transform-test-files"
+	]
+}
